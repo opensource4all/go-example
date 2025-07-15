@@ -1,17 +1,12 @@
-# fly.toml app configuration file generated for go-example-alex on 2025-07-15T17:31:48-04:00
+# fly.toml app configuration file generated for go-example-delicate-shape-828 on 2025-07-15T18:19:44-04:00
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'go-example-alex'
+app = 'go-example-delicate-shape-828'
 primary_region = 'ewr'
 
 [build]
-  [build.args]
-    GO_VERSION = '1.22'
-
-[env]
-  PORT = '8080'
 
 [http_service]
   internal_port = 8080
