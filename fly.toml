@@ -1,9 +1,9 @@
-# fly.toml app configuration file generated for go-example-delicate-shape-828 on 2025-07-15T18:19:44-04:00
+# fly.toml app configuration file generated for go-example-divine-dust-1600 on 2025-07-15T18:32:52-04:00
 #
 # See https://fly.io/docs/reference/configuration/ for information about how to use this file.
 #
 
-app = 'go-example-delicate-shape-828'
+app = 'go-example-divine-dust-1600'
 primary_region = 'ewr'
 
 [build]
